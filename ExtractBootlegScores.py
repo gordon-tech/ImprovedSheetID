@@ -5,8 +5,8 @@
 # Embedded file name: /home/dyang/SheetMidiSearchRetrieval/ExtractBootlegFeatures.py
 # Compiled at: 2020-01-29 00:36:50
 # Size of source mod 2**32: 38961 bytes
-get_ipython().run_line_magic('matplotlib', 'inline')
-get_ipython().run_line_magic('load_ext', 'Cython')
+# get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('load_ext', 'Cython')
 import numpy as np
 from numpy.matlib import repmat
 import matplotlib.pyplot as plt
